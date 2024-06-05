@@ -1,4 +1,4 @@
-# Sales Data Classification
+# Predict Sales Data - Classification
 
 This repository contains a project for classifying sales data using a Random Forest classifier. The dataset used in this project is [from Kaggle](https://www.kaggle.com/datasets/flenderson/sales-analysis), and the objective is to predict the `SoldFlag` based on various features in the dataset.
 
